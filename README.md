@@ -5,6 +5,8 @@ IPA（独立行政法人情報処理推進機構）による「安全なウェ�
 著作権は IPA に帰属します。
 オリジナルからの間違い等があればすべて [gh640](/gh640) のミスによるものです。
 
+[チェックリストの部分](https://raw.githubusercontent.com/gh640/web-application-security-checklist-ja/main/README.md) を Markdown が使える Wiki 等に貼り付けて利用すると便利です。
+
 ## 脆弱性の種類
 
 1. SQL インジェクション
